@@ -1,5 +1,6 @@
-HR Attrition & Workforce Analytics Dashboard
-🔹 Project Overview
+### HR Attrition & Workforce Analytics Dashboard ###
+
+ Project Overview
 
 This project focuses on analyzing employee attrition patterns and workforce trends using HR data. The objective is to identify key factors influencing employee turnover and provide actionable insights to improve retention and organizational performance.
 
@@ -12,6 +13,7 @@ Analyze attrition trends across multiple dimensions
 Identify high-risk employee segments
 Understand factors driving employee turnover
 Support data-driven HR decision-making
+
 🔹 Dataset Information
 Source: HR Analytics dataset (CSV)
 Records: Employee-level data
